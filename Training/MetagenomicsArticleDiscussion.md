@@ -18,3 +18,11 @@
 
 * Mothers completed questionnaire at 3, 6, 12 months postpartum
   * *Possible problems with questionnaires?*
+  * *Whom in the discussion have used questionnaires?*
+  * *What software do you use to capture questionnaire responses?*
+
+  * Infant - food, allergies, rash, medication, diet, pets, etc
+  * Mode of delivery (hospital records)
+  * Antibiotic exposure - mom report (direct/indirect)
+
+
