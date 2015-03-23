@@ -26,4 +26,10 @@
   * Mode of delivery (hospital records)
   * Antibiotic exposure - mom report (direct/indirect)
 
+##### Sample prep:
+
+* Let's take a look at what is reported - do you have all this information available about your own samples for when it is time to write up?
+* How do you associate data with metadata?
+* What about controlled vocabularies?
+* Example: Cornell University's [guide to writing "readme" style metadata](http://data.research.cornell.edu/content/readme)
 
