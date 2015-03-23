@@ -20,8 +20,6 @@
   * *Possible problems with questionnaires?*
   * *Whom in the discussion have used questionnaires?*
   * *What software do you use to capture questionnaire responses?*
-
-
   * Infant - food, allergies, rash, medication, diet, pets, etc
   * Mode of delivery (hospital records)
   * Antibiotic exposure - mom report (direct/indirect)
@@ -58,7 +56,6 @@
 * At 3 months a quartile increase in richness -> associated with 52% reduction in risk for food sensitization by 1 year
 * Quartile increase in E/B ratio -> associated with ~2 fold increase in risk for food sensitization
 * At 1 year richness wasn't associated with food sensitization any longer, although composition was
-
 * Adjustment for potentially disruptive events lead to no change in findings
 * Small changes when correcting for breastfeeding
 
@@ -75,4 +72,8 @@
 * Parent reported food allergy diagnosis did not agree with skin prick results
 * Low prevalence of food sensitization precluded some statistical analysis
 	* *Can this data be re-used in other studies to increase sample size?*
+* Causal relationship or other environmental/situational factors?
+* 16S analysis not able to discriminate at individual species level
+* Does bacteria in stool reflect bacteria in gut?
 
+#### What do you think?
