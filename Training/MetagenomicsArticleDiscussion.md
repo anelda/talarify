@@ -1,7 +1,7 @@
-###Article Discussion (UCT Medical Micro Group, March 2015)
+### Article Discussion (UCT Medical Micro Group, March 2015)
 
-####Infant Gut Microbiota and Food Sensitizations: Associations in the first year of life
-#####Azad et al. 2015. Clinical & Experimental Allergy, 45, 632-643. (doi:10.1111/cea.12487)
+#### Infant Gut Microbiota and Food Sensitizations: Associations in the first year of life
+##### Azad et al. 2015. Clinical & Experimental Allergy, 45, 632-643. (doi:10.1111/cea.12487)
 
 ##### Aims of study:
 
