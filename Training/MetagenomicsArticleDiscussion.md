@@ -33,3 +33,10 @@
 * What about controlled vocabularies?
 * Example: Cornell University's [guide to writing "readme" style metadata](http://data.research.cornell.edu/content/readme)
 
+##### 16S data analysis:
+
+* What does rarified mean?
+* See "Waste not, want not: Why rarefying microbiome data is inadmissible" by McMurdie & Holmes, Plos Computational Biology. DOI:10.1371/journal.pcbi.1003531. 2014
+	* high rate of false positives
+	* discard samples that can be clustered accurately by alternative methods
+
